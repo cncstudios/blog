@@ -1,0 +1,69 @@
+    <!-- PAGE -->
+    <div class="page section">
+        <!-- Article -->
+        <div class="article-flow">
+            <div class="article-wrapper">
+                <!-- Left Art -->
+                <div class="art-div article-img-cov" style="background-image: url(assets/img/art-cov/)">
+                    <div class="art-cov-tint art-target">
+                        <div class="date-container">
+                            00 MON 00
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Art -->
+                <div class="art-div article-content-wrapper">
+                    <!-- Title -->
+                    <div class="art-cont-title-container">
+                        <h3>[TITLE]</h3>
+                        <h4>by [AUTHOR]</h4>
+                    </div>
+                    <!-- Article Content -->
+                    <div class="art-cont-container art-cont-container-toggle">
+                        <p class="art-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis ipsum vel malesuada ornare. Vestibulum vitae lacus sollicitudin, condimentum elit sed, porta arcu. Etiam in quam vitae dui mattis mollis et sit amet tortor. Quisque sagittis tortor nec hendrerit vestibulum. Ut sit amet augue ut ligula molestie aliquet. In placerat urna quis nisl dignissim semper sed in erat. Aenean tempus sapien sollicitudin, facilisis nisi eget, sodales augue. Aliquam tristique magna vel leo suscipit tempor in in tortor. Vestibulum nec nulla ut quam dignissim mollis eu non magna. Nulla ut tortor et tellus lacinia viverra blandit eu metus. Fusce aliquam sed elit at sollicitudin. Aliquam augue dolor, imperdiet sed velit at, ullamcorper ultricies erat. Sed porta lacus eu mauris aliquam, at gravida ligula commodo.</p>
+                        <p class="art-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis ipsum vel malesuada ornare. Vestibulum vitae lacus sollicitudin, condimentum elit sed, porta arcu. Etiam in quam vitae dui mattis mollis et sit amet tortor. Quisque sagittis tortor nec hendrerit vestibulum. Ut sit amet augue ut ligula molestie aliquet. In placerat urna quis nisl dignissim semper sed in erat. Aenean tempus sapien sollicitudin, facilisis nisi eget, sodales augue. Aliquam tristique magna vel leo suscipit tempor in in tortor. Vestibulum nec nulla ut quam dignissim mollis eu non magna. Nulla ut tortor et tellus lacinia viverra blandit eu metus. Fusce aliquam sed elit at sollicitudin. Aliquam augue dolor, imperdiet sed velit at, ullamcorper ultricies erat. Sed porta lacus eu mauris aliquam, at gravida ligula commodo.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <!-- PAGE DARK -->
+    <div class="dark-page section">
+        <!-- Design -->
+        <div class="top-tri"></div>
+        <div class="bottom-tri"></div>
+
+        <!-- Article -->
+        <div class="article-flow">
+            <div class="article-wrapper">
+                <!-- Left Art -->
+                <div class="art-div article-content-wrapper">
+                    <!-- Title -->
+                    <div class="art-cont-title-container">
+                        <h3>[TITLE]</h3>
+                        <h4>by [AUTHOR]</h4>
+                    </div>
+                    <!-- Article Content -->
+                    <div class="art-cont-container art-cont-container-toggle">
+                        <p class="art-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis ipsum vel malesuada ornare. Vestibulum vitae lacus sollicitudin, condimentum elit sed, porta arcu. Etiam in quam vitae dui mattis mollis et sit amet tortor. Quisque sagittis tortor nec hendrerit vestibulum. Ut sit amet augue ut ligula molestie aliquet. In placerat urna quis nisl dignissim semper sed in erat. Aenean tempus sapien sollicitudin, facilisis nisi eget, sodales augue. Aliquam tristique magna vel leo suscipit tempor in in tortor. Vestibulum nec nulla ut quam dignissim mollis eu non magna. Nulla ut tortor et tellus lacinia viverra blandit eu metus. Fusce aliquam sed elit at sollicitudin. Aliquam augue dolor, imperdiet sed velit at, ullamcorper ultricies erat. Sed porta lacus eu mauris aliquam, at gravida ligula commodo.</p>
+                        <p class="art-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis ipsum vel malesuada ornare. Vestibulum vitae lacus sollicitudin, condimentum elit sed, porta arcu. Etiam in quam vitae dui mattis mollis et sit amet tortor. Quisque sagittis tortor nec hendrerit vestibulum. Ut sit amet augue ut ligula molestie aliquet. In placerat urna quis nisl dignissim semper sed in erat. Aenean tempus sapien sollicitudin, facilisis nisi eget, sodales augue. Aliquam tristique magna vel leo suscipit tempor in in tortor. Vestibulum nec nulla ut quam dignissim mollis eu non magna. Nulla ut tortor et tellus lacinia viverra blandit eu metus. Fusce aliquam sed elit at sollicitudin. Aliquam augue dolor, imperdiet sed velit at, ullamcorper ultricies erat. Sed porta lacus eu mauris aliquam, at gravida ligula commodo.</p>
+                    </div>
+                </div>
+
+                <!-- Right Art -->
+                <div class="art-div article-img-cov" style="background-image: url(assets/img/art-cov/)">
+                    <div class="art-cov-tint art-target">
+                        <div class="date-container-alt">
+                            00 MON 00
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
